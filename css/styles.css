@@ -1,0 +1,32 @@
+html{
+    margin-top: 3%;
+    margin: 10%;
+}
+body{
+    background-color: #EAF6F6;
+}
+hr{
+    border: none;
+    border-top: 7px dotted rgb(230, 230, 230); width: 5%;
+
+}
+h1{
+    color: #66bfbf;
+}
+h3{
+
+    color: #66bfbf;
+}
+
+#myimage{
+  border-radius: 100%;
+}
+
+#myimage:hover{
+    /*zoom: 150%;*/
+    overflow: hidden;
+    transition: transform 1.5s ease;
+    transform: scale(1.5);
+}
+
+
