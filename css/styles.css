@@ -20,13 +20,16 @@ h3{
 
 #myimage{
   border-radius: 100%;
+
+overflow: hidden;
+    transition: transform 1.5s ease;
+   
+
 }
 
 #myimage:hover{
     /*zoom: 150%;*/
-    overflow: hidden;
-    transition: transform 1.5s ease;
-    transform: scale(1.5);
+   transform: scale(1.5);
 }
 
 
