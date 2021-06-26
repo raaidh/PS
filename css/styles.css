@@ -22,7 +22,7 @@ h3{
   border-radius: 100%;
 
 overflow: hidden;
-    transition: transform 1.5s ease;
+    transition: transform 1.5s ease-in;
    
 
 }
